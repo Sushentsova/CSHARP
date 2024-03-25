@@ -1,0 +1,14 @@
+/home/natalya/GeekBrains/CSHARP/task01/obj/Debug/net8.0/task01.GeneratedMSBuildEditorConfig.editorconfig
+/home/natalya/GeekBrains/CSHARP/task01/obj/Debug/net8.0/task01.AssemblyInfoInputs.cache
+/home/natalya/GeekBrains/CSHARP/task01/obj/Debug/net8.0/task01.AssemblyInfo.cs
+/home/natalya/GeekBrains/CSHARP/task01/obj/Debug/net8.0/task01.csproj.CoreCompileInputs.cache
+/home/natalya/GeekBrains/CSHARP/task01/bin/Debug/net8.0/task01
+/home/natalya/GeekBrains/CSHARP/task01/bin/Debug/net8.0/task01.deps.json
+/home/natalya/GeekBrains/CSHARP/task01/bin/Debug/net8.0/task01.runtimeconfig.json
+/home/natalya/GeekBrains/CSHARP/task01/bin/Debug/net8.0/task01.dll
+/home/natalya/GeekBrains/CSHARP/task01/bin/Debug/net8.0/task01.pdb
+/home/natalya/GeekBrains/CSHARP/task01/obj/Debug/net8.0/task01.dll
+/home/natalya/GeekBrains/CSHARP/task01/obj/Debug/net8.0/refint/task01.dll
+/home/natalya/GeekBrains/CSHARP/task01/obj/Debug/net8.0/task01.pdb
+/home/natalya/GeekBrains/CSHARP/task01/obj/Debug/net8.0/task01.genruntimeconfig.cache
+/home/natalya/GeekBrains/CSHARP/task01/obj/Debug/net8.0/ref/task01.dll

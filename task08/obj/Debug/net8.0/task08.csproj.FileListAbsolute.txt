@@ -1,0 +1,14 @@
+/home/natalya/GeekBrains/CSHARP/task08/bin/Debug/net8.0/task08
+/home/natalya/GeekBrains/CSHARP/task08/bin/Debug/net8.0/task08.deps.json
+/home/natalya/GeekBrains/CSHARP/task08/bin/Debug/net8.0/task08.runtimeconfig.json
+/home/natalya/GeekBrains/CSHARP/task08/bin/Debug/net8.0/task08.dll
+/home/natalya/GeekBrains/CSHARP/task08/bin/Debug/net8.0/task08.pdb
+/home/natalya/GeekBrains/CSHARP/task08/obj/Debug/net8.0/task08.GeneratedMSBuildEditorConfig.editorconfig
+/home/natalya/GeekBrains/CSHARP/task08/obj/Debug/net8.0/task08.AssemblyInfoInputs.cache
+/home/natalya/GeekBrains/CSHARP/task08/obj/Debug/net8.0/task08.AssemblyInfo.cs
+/home/natalya/GeekBrains/CSHARP/task08/obj/Debug/net8.0/task08.csproj.CoreCompileInputs.cache
+/home/natalya/GeekBrains/CSHARP/task08/obj/Debug/net8.0/task08.dll
+/home/natalya/GeekBrains/CSHARP/task08/obj/Debug/net8.0/refint/task08.dll
+/home/natalya/GeekBrains/CSHARP/task08/obj/Debug/net8.0/task08.pdb
+/home/natalya/GeekBrains/CSHARP/task08/obj/Debug/net8.0/task08.genruntimeconfig.cache
+/home/natalya/GeekBrains/CSHARP/task08/obj/Debug/net8.0/ref/task08.dll
