@@ -12,3 +12,4 @@
 /home/natalya/GeekBrains/CSHARP/task00/obj/Debug/net8.0/task00.pdb
 /home/natalya/GeekBrains/CSHARP/task00/obj/Debug/net8.0/task00.genruntimeconfig.cache
 /home/natalya/GeekBrains/CSHARP/task00/obj/Debug/net8.0/ref/task00.dll
+/home/natalya/GeekBrains/CSHARP/task00/obj/Debug/net8.0/task00.sourcelink.json
