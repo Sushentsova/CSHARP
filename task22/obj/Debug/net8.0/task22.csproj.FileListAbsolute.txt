@@ -1,0 +1,15 @@
+/Users/natalya_sush/gb/csharp/CSHARP/task22/obj/Debug/net8.0/task22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalya_sush/gb/csharp/CSHARP/task22/obj/Debug/net8.0/task22.AssemblyInfoInputs.cache
+/Users/natalya_sush/gb/csharp/CSHARP/task22/obj/Debug/net8.0/task22.AssemblyInfo.cs
+/Users/natalya_sush/gb/csharp/CSHARP/task22/obj/Debug/net8.0/task22.csproj.CoreCompileInputs.cache
+/Users/natalya_sush/gb/csharp/CSHARP/task22/obj/Debug/net8.0/task22.sourcelink.json
+/Users/natalya_sush/gb/csharp/CSHARP/task22/bin/Debug/net8.0/task22
+/Users/natalya_sush/gb/csharp/CSHARP/task22/bin/Debug/net8.0/task22.deps.json
+/Users/natalya_sush/gb/csharp/CSHARP/task22/bin/Debug/net8.0/task22.runtimeconfig.json
+/Users/natalya_sush/gb/csharp/CSHARP/task22/bin/Debug/net8.0/task22.dll
+/Users/natalya_sush/gb/csharp/CSHARP/task22/bin/Debug/net8.0/task22.pdb
+/Users/natalya_sush/gb/csharp/CSHARP/task22/obj/Debug/net8.0/task22.dll
+/Users/natalya_sush/gb/csharp/CSHARP/task22/obj/Debug/net8.0/refint/task22.dll
+/Users/natalya_sush/gb/csharp/CSHARP/task22/obj/Debug/net8.0/task22.pdb
+/Users/natalya_sush/gb/csharp/CSHARP/task22/obj/Debug/net8.0/task22.genruntimeconfig.cache
+/Users/natalya_sush/gb/csharp/CSHARP/task22/obj/Debug/net8.0/ref/task22.dll
