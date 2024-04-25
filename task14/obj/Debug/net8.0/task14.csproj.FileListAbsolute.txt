@@ -1,0 +1,15 @@
+/Users/natalya_sush/gb/csharp/CSHARP/task14/bin/Debug/net8.0/task14
+/Users/natalya_sush/gb/csharp/CSHARP/task14/bin/Debug/net8.0/task14.deps.json
+/Users/natalya_sush/gb/csharp/CSHARP/task14/bin/Debug/net8.0/task14.runtimeconfig.json
+/Users/natalya_sush/gb/csharp/CSHARP/task14/bin/Debug/net8.0/task14.dll
+/Users/natalya_sush/gb/csharp/CSHARP/task14/bin/Debug/net8.0/task14.pdb
+/Users/natalya_sush/gb/csharp/CSHARP/task14/obj/Debug/net8.0/task14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalya_sush/gb/csharp/CSHARP/task14/obj/Debug/net8.0/task14.AssemblyInfoInputs.cache
+/Users/natalya_sush/gb/csharp/CSHARP/task14/obj/Debug/net8.0/task14.AssemblyInfo.cs
+/Users/natalya_sush/gb/csharp/CSHARP/task14/obj/Debug/net8.0/task14.csproj.CoreCompileInputs.cache
+/Users/natalya_sush/gb/csharp/CSHARP/task14/obj/Debug/net8.0/task14.sourcelink.json
+/Users/natalya_sush/gb/csharp/CSHARP/task14/obj/Debug/net8.0/task14.dll
+/Users/natalya_sush/gb/csharp/CSHARP/task14/obj/Debug/net8.0/refint/task14.dll
+/Users/natalya_sush/gb/csharp/CSHARP/task14/obj/Debug/net8.0/task14.pdb
+/Users/natalya_sush/gb/csharp/CSHARP/task14/obj/Debug/net8.0/task14.genruntimeconfig.cache
+/Users/natalya_sush/gb/csharp/CSHARP/task14/obj/Debug/net8.0/ref/task14.dll

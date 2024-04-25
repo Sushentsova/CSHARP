@@ -1,0 +1,15 @@
+/Users/natalya_sush/gb/csharp/CSHARP/task16/bin/Debug/net8.0/task16
+/Users/natalya_sush/gb/csharp/CSHARP/task16/bin/Debug/net8.0/task16.deps.json
+/Users/natalya_sush/gb/csharp/CSHARP/task16/bin/Debug/net8.0/task16.runtimeconfig.json
+/Users/natalya_sush/gb/csharp/CSHARP/task16/bin/Debug/net8.0/task16.dll
+/Users/natalya_sush/gb/csharp/CSHARP/task16/bin/Debug/net8.0/task16.pdb
+/Users/natalya_sush/gb/csharp/CSHARP/task16/obj/Debug/net8.0/task16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalya_sush/gb/csharp/CSHARP/task16/obj/Debug/net8.0/task16.AssemblyInfoInputs.cache
+/Users/natalya_sush/gb/csharp/CSHARP/task16/obj/Debug/net8.0/task16.AssemblyInfo.cs
+/Users/natalya_sush/gb/csharp/CSHARP/task16/obj/Debug/net8.0/task16.csproj.CoreCompileInputs.cache
+/Users/natalya_sush/gb/csharp/CSHARP/task16/obj/Debug/net8.0/task16.sourcelink.json
+/Users/natalya_sush/gb/csharp/CSHARP/task16/obj/Debug/net8.0/task16.dll
+/Users/natalya_sush/gb/csharp/CSHARP/task16/obj/Debug/net8.0/refint/task16.dll
+/Users/natalya_sush/gb/csharp/CSHARP/task16/obj/Debug/net8.0/task16.pdb
+/Users/natalya_sush/gb/csharp/CSHARP/task16/obj/Debug/net8.0/task16.genruntimeconfig.cache
+/Users/natalya_sush/gb/csharp/CSHARP/task16/obj/Debug/net8.0/ref/task16.dll
