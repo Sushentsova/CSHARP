@@ -1,0 +1,15 @@
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/obj/Debug/net8.0/lesson7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/obj/Debug/net8.0/lesson7.AssemblyInfoInputs.cache
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/obj/Debug/net8.0/lesson7.AssemblyInfo.cs
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/obj/Debug/net8.0/lesson7.csproj.CoreCompileInputs.cache
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/obj/Debug/net8.0/lesson7.sourcelink.json
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/bin/Debug/net8.0/lesson7
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/bin/Debug/net8.0/lesson7.deps.json
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/bin/Debug/net8.0/lesson7.runtimeconfig.json
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/bin/Debug/net8.0/lesson7.dll
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/bin/Debug/net8.0/lesson7.pdb
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/obj/Debug/net8.0/lesson7.dll
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/obj/Debug/net8.0/refint/lesson7.dll
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/obj/Debug/net8.0/lesson7.pdb
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/obj/Debug/net8.0/lesson7.genruntimeconfig.cache
+/Users/natalya_sush/gb/csharp/CSHARP/lesson7/obj/Debug/net8.0/ref/lesson7.dll
